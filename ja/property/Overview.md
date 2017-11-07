@@ -16,7 +16,6 @@
 | RecordingTime | ○ | － |
 | RemainingRecordingTime | ○ | － |
 | RemainingVideos | ○ | － |
-| VideoBitrate | ○ | ○ |
 | ZenithMode | ○ | ○ |
 | VideoOutput | ○ | ○ |
 | AudioOutput | ○ | ○ |
@@ -25,3 +24,6 @@
 | WDR | ○ | ○ |
 | StitchMode | ○ | ○ |
 | AudioInputGain | ○ | ○ |
+| VideoBitrate | ○ | ○ |
+| FlickerReductionMode | ○ | ○ |
+| ColorTemperature | ○ | ○ |

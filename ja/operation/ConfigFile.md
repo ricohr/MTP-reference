@@ -58,6 +58,8 @@ case String
 | WDR                       | Number | カメラのWDR(Wide Dynamic Range)モード |
 | StitchMode                | Number | カメラ2つの映像をつなぐモード |
 | AudioInputGain            | Number | 音声入力ゲイン |
+| FlickerReductionMode      | Number | カメラのフリッカー低減モード |
+| ColorTemperature          | Number | 色温度の値 |
 
 
 ## 記述例

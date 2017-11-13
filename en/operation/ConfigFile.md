@@ -58,6 +58,8 @@ case String
 | WDR                       | Number | Camera Wide Dynamic Range (WDR) mode  |
 | StitchMode                | Number | Stitching two camera video mode |
 | AudioInputGain            | Number | Audio Input Gain |
+| FlickerReductionMode      | Number | Camera Flicker Reduction mode |
+| ColorTemperature          | Number | Color temperature value |
 
 
 ## Description Example

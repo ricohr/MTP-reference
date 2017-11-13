@@ -17,3 +17,4 @@ The top/bottom correction mode is the mode that corrects the tilt of video outpu
 | 1 | ON:Upwards (when using a tripod or the like) |
 | 2 | ON:Downwards (when hanging from the ceiling or the like) |
 | 3 | ON:Auto (determines whether to use Upwards or Downwards at the state the camera is in when it is turned on) |
+| 4 | ON: Fixed (fix top/bottom correction in the same direction as at the time of configuration) |

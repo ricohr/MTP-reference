@@ -16,7 +16,6 @@ The properties support status is as follows.
 | RecordingTime | ○ | － |
 | RemainingRecordingTime | ○ | － |
 | RemainingVideos | ○ | － |
-| VideoBitrate | ○ | ○ |
 | ZenithMode | ○ | ○ |
 | VideoOutput | ○ | ○ |
 | AudioOutput | ○ | ○ |
@@ -25,3 +24,7 @@ The properties support status is as follows.
 | WDR | ○ | ○ |
 | StitchMode | ○ | ○ |
 | AudioInputGain | ○ | ○ |
+| VideoBitrate | ○ | ○ |
+| FlickerReductionMode | ○ | ○ |
+| ColorTemperature | ○ | ○ |
+

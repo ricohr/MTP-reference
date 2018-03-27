@@ -49,7 +49,8 @@ case String
 | WhiteBalance              | Number | White balance |
 | RGBGain                   | String | RGB values |
 | ExposureBiasCompensation  | Number | Exposure compensation values |
-| VideoBitrate              | Number | Recording bit rate |
+| SleepDelay                | Number | Delay time for sleeping |
+| SleepMode                | Number | Sleep mode |
 | ZenithMode                | Number | Camera top/bottom correction mode |
 | VideoOutput               | Number | Video output mode |
 | AudioOutput               | Number | HDMI audio output |
@@ -58,6 +59,7 @@ case String
 | WDR                       | Number | Camera Wide Dynamic Range (WDR) mode  |
 | StitchMode                | Number | Stitching two camera video mode |
 | AudioInputGain            | Number | Audio Input Gain |
+| VideoBitrate              | Number | Recording bit rate |
 | FlickerReductionMode      | Number | Camera Flicker Reduction mode |
 | ColorTemperature          | Number | Color temperature value |
 

@@ -31,10 +31,12 @@
 | 0x5010 | ExposureBiasCompensation          | Set or fetch exposure compensation values. |
 | 0x5013 | StillCaptureMode          | Fetch a shooting method. |
 | 0xD407 | PerceivedDeviceType          | Fetch the camera device type. |
+| 0xD803 | SleepDelay               | Set or fetch the time at which the camera automatically enters sleep mode. | 
 | 0xD808 | CaptureStatus          | Fetch the camera shooting state. |
 | 0xD809 | RecordingTime          | Fetch the video shooting time (seconds) during shooting. |
 | 0xD80A | RemainingRecordingTime          | Fetch the remaining available video shooting time (seconds) during shooting. |
 | 0xD80D | RemainingVideos          | Fetch the remaining available video shooting time (seconds) on the camera. |
+| 0xD80E | SleepMode | Set or fetch whether the camera is in sleep mode. | 
 | 0xD812 | ZenithMode          | Set or fetch the camera top/bottom correction mode. |
 | 0xD813 | VideoOutput          | Set or fetch video output mode. |
 | 0xD814 | AudioOutput          | Set or fetch whether to output audio when connected via HDMI. |

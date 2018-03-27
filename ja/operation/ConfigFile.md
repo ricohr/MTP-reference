@@ -49,7 +49,8 @@ case String
 | WhiteBalance              | Number | ホワイトバランス |
 | RGBGain                   | String | RGBの値 |
 | ExposureBiasCompensation  | Number | 露出補正値 |
-| VideoBitrate              | Number | 録画ビットレート |
+| SleepDelay                | Number | スリープ状態になる時間 |
+| SleepMode                 | Number | スリープモード |
 | ZenithMode                | Number | カメラの天頂補正モード |
 | VideoOutput               | Number | 映像出力のモード |
 | AudioOutput               | Number | HDMIでの音声出力の有無 |
@@ -58,6 +59,7 @@ case String
 | WDR                       | Number | カメラのWDR(Wide Dynamic Range)モード |
 | StitchMode                | Number | カメラ2つの映像をつなぐモード |
 | AudioInputGain            | Number | 音声入力ゲイン |
+| VideoBitrate              | Number | 録画ビットレート |
 | FlickerReductionMode      | Number | カメラのフリッカー低減モード |
 | ColorTemperature          | Number | 色温度の値 |
 

@@ -13,9 +13,11 @@
 | StillCaptureMode | ○ | － |
 | PerceivedDeviceType | ○ | － |
 | CaptureStatus | ○ | － |
+| SleepDelay | ○ | ○ |
 | RecordingTime | ○ | － |
 | RemainingRecordingTime | ○ | － |
 | RemainingVideos | ○ | － |
+| SleepMode | ○ | ○ |
 | ZenithMode | ○ | ○ |
 | VideoOutput | ○ | ○ |
 | AudioOutput | ○ | ○ |

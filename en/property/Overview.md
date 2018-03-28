@@ -13,9 +13,11 @@ The properties support status is as follows.
 | StillCaptureMode | ○ | － |
 | PerceivedDeviceType | ○ | － |
 | CaptureStatus | ○ | － |
+| SleepDelay | ○ | ○ |
 | RecordingTime | ○ | － |
 | RemainingRecordingTime | ○ | － |
 | RemainingVideos | ○ | － |
+| SleepMode | ○ | ○ |
 | ZenithMode | ○ | ○ |
 | VideoOutput | ○ | ○ |
 | AudioOutput | ○ | ○ |
